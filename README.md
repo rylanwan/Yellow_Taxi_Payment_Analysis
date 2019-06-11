@@ -1,4 +1,4 @@
-# Yellow Taxi Credit Card Payment Analysis #
+# Yellow Taxi Credit Card Payment Analysis 🚕
 ***
 ## Probelm & Motivation : ## 
 Cashless payments have become popular recently. Payment methods such as credit cards and Apple Pay usually offer benefits and awards to their users. Those benefits include cash back, discounts, and point awards. However, not everyone has the access to using credit cards. Some of them don't know the advantages of using credit cards, and some of them don't know how to apply one. The familirity of cahsless payments can in fact cause financial gaps among societies/people.
@@ -31,11 +31,11 @@ Using K-mean Clustering, Complete-linke Clustering, and Gaussian Mixture Model C
  
 ### 2. K-mean Clustering Analysis
 - Investigate the differences within 3 clusters based on:
-  - Trip count
-  - Median Household income
-  - Male population
-  - Median age
-  - Educational degree level
-  - Number of liquors vendors (bars, resturants...)
+  - 🚕 Trip count
+  - 💵 Median Household income
+  - 💁🏻‍♂️Male population 
+  - 👶🏽 Median age 
+  - 🎓 Educational degree level 
+  - 🍻 Number of liquors vendors (bars, resturants...) 
  
 #### Observation: There are positive correlations between the usage of credit cards and the number of trip count, median household income, educational degree level, and the number of liquor vendors.
