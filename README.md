@@ -1,4 +1,4 @@
-# Yellow Taxi Credit Card Payment Analysis
+# Yellow Taxi Credit Card Payment Analysis #
 ***
 ## Probelm & Motivation : ## 
 Cashless payments have become popular recently. Payment methods such as credit cards and Apple Pay usually offer benefits and awards to their users. Those benefits include cash back, discounts, and point awards. However, not everyone has the access to using credit cards. Some of them don't know the advantages of using credit cards, and some of them don't know how to apply one. The familirity of cahsless payments can in fact cause financial gaps among societies/people.
